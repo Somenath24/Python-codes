@@ -2,7 +2,7 @@
 """
 Created on Thu Jul 27 12:53:17 2017
 
-@author: Gramener
+@author: Somenath
 """
 from bs4 import BeautifulSoup
 import urllib2
